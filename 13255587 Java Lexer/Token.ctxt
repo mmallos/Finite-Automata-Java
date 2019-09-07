@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=
+comment1.target=Token()
+comment10.params=other
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=newValue
+comment11.target=void\ setValue(double)
+comment12.params=other
+comment12.target=boolean\ equals(Token)
+comment2.params=value
+comment2.target=Token(double)
+comment3.params=value
+comment3.target=Token(int)
+comment4.params=type
+comment4.target=Token(Token.TokenType)
+comment5.params=
+comment5.target=boolean\ isNumber()
+comment6.params=
+comment6.target=Token.TokenType\ getType()
+comment7.params=
+comment7.target=java.util.Optional\ getValue()
+comment8.params=symbol
+comment8.target=Token.TokenType\ typeOf(char)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=13

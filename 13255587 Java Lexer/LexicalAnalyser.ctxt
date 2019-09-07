@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LexicalAnalyser
+comment1.params=input
+comment1.target=java.util.List\ analyse(java.lang.String)
+numComments=2
